@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    color: rgba(0,0,0,0.8);
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    flex-flow: column;
+    align-items: center;
+    background-color: rgb(196, 226, 255);
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+body a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.8);
+    font-size: 20px;
+    margin-top: 18px;
+}
+
+body a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: large;
+}

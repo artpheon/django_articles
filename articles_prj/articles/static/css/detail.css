@@ -1,0 +1,23 @@
+article em {
+    text-align: left;
+    display: inherit;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+article p {
+    font-size: 22px;
+}
+
+div.comment_section {
+    width: 100%;
+    text-align: left;
+}
+
+div.comment {
+    background-color: rgba(0,0,0, 0.1);
+    padding: 5px 10px 10px 10px;
+    margin: 15px 0 10px 0;
+}
